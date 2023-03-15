@@ -1,5 +1,5 @@
 if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
-    location.href = "https://chrome.google.com/webstorex";
+    location.href = "https://chrome.google.com/webstorey";
 }
 
 document.head.innerHTML = `
